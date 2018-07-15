@@ -3,58 +3,58 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "0.0.0.0" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
-theme_settings:
-  # Meta
-  title: Cayman theme
-  avatar: avatar.png
-  gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+#no theme# theme_settings:#no theme# 
+#no theme#   # Meta
+#no theme#   title: Cayman theme
+#no theme#   avatar: avatar.png
+#no theme#   gravatar: # Email MD5 hash
+#no theme#   description: "A website with blog posts and pages" # used by search engines
 
-  # Header and footer text
-  header_text: >
-     <h1>Designer, Developer, Writer, and Dad.</h1>
-  header_text_feature_image:
-  footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+#no theme#   # Header and footer text
+#no theme#   header_text: >
+#no theme#      <h1>Designer, Developer, Writer, and Dad.</h1>
+#no theme#   header_text_feature_image:
+#no theme#   footer_text: >
+#no theme#    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
-  # Icons
-  rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
-  behance:
-  bitbucket:
-  dribbble: "joeykirk"
-  facebook: "joeykirk"
-  flickr:
-  github: "madebymunsters/type-theme"
-  google_plus:
-  instagram: "joeykirk"
-  linkedin:  # Full URL
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr:
-  twitter: "joeykirk"
-  wordpress:
-  youtube:
+#no theme#   # Icons
+#no theme#   rss: false
+#no theme#   email_address: # Full email address, e.g. "sam@example.com"
+#no theme#   behance:
+#no theme#   bitbucket:
+#no theme#   dribbble: "joeykirk"
+#no theme#   facebook: "joeykirk"
+#no theme#   flickr:
+#no theme#   github: "madebymunsters/type-theme"
+#no theme#   google_plus:
+#no theme#   instagram: "joeykirk"
+#no theme#   linkedin:  # Full URL
+#no theme#   pinterest:
+#no theme#   reddit:
+#no theme#   soundcloud:
+#no theme#   stack_exchange:  # Full URL
+#no theme#   steam:
+#no theme#   tumblr:
+#no theme#   twitter: "joeykirk"
+#no theme#   wordpress:
+#no theme#   youtube:
 
-  # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
-  katex: true # Enable if using math markup
+#no theme#   # Scripts
+#no theme#   google_analytics: # Tracking ID, e.g. "UA-000000-01"
+#no theme#   disqus_shortname:
+#no theme#   katex: true # Enable if using math markup
 
-  # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
-  str_email: "Email"
-  str_next: "Next"
-  str_prev: "Prev"
-  str_continue_reading: "Continue reading"
+#no theme#   # Localization strings
+#no theme#   str_follow_on: "Follow on"
+#no theme#   str_rss_follow: "Follow RSS feed"
+#no theme#   str_email: "Email"
+#no theme#   str_next: "Next"
+#no theme#   str_prev: "Prev"
+#no theme#   str_continue_reading: "Continue reading"
 
-  # Colours, typography and padding
-  # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+#no theme#   # Colours, typography and padding
+#no theme#   # Open the "_sass > base" folder, and open "_variables.scss"
+#no theme#   google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
 
 # PAGINATION
 paginate: 5
